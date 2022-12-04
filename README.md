@@ -1,4 +1,6 @@
 # drivingUSEDcar_prices
+Regression: Data Cleaning and Model Performance
+
 From vehicle purchase data, determine which features are most important in buying a used vehicle.
 
 This dataset contains many features about a vehicle, such as paint color, transmission, model, make, fuel type, etc.. but many of these features were not useful.
