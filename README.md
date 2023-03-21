@@ -1,5 +1,5 @@
 # drivingUSEDcar_prices
-Regression: Data Cleaning and Model Performance
+Regression: Data Analysis, Data Cleaning and Model Performance
 
 From vehicle purchase data, determine which features are most important in buying a used vehicle.
 
